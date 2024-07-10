@@ -301,7 +301,7 @@ section>button {
 }
 
 .support {
-    width: 1140px;
+    width: 940px;
     height: 113px;
     top: 3752px;
     position: absolute;
@@ -330,6 +330,8 @@ section>button {
     margin-bottom: 50px;
     text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
 }
+
+
 
 .feedback {
     display: flex;
@@ -368,6 +370,7 @@ section>button {
     font-size: 18px;
     padding: 16px;
     margin-left: 20px;
+    font-weight: 700;
 }
 
 .footer {
